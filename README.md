@@ -24,7 +24,7 @@ This project is ideal for anyone learning about **computer vision**, **deep lear
 
 The following images show the detection system in action, identifying **person, bottle, and remote** in the same frame:
 
-![Detection Demo 1](samples/detection1.jpg)
-![Detection Demo 2](samples/detection2.jpg)
+![Detection Demo 1](samples/image1.jpg)
+![Detection Demo 2](samples/image2.jpg)
 
-> Note:  is NOT included due to size. Download it here: [YOLOv4 weights](https://pjreddie.com/media/files/yolov4.weights)
+
